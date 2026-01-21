@@ -1,2 +1,12 @@
-README.md
-My first GitHub project
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Website</title>
+</head>
+<body>
+
+<h1>Welcome Parmila</h1>
+<p>This is my first website</p>
+
+</body>
+</html>
