@@ -1,14 +1,25 @@
-# My First Website 🌐
+# My First Website
 
-This is my first website created using **HTML and CSS** and hosted on **GitHub Pages**.
+This is my first website created using HTML and hosted on GitHub Pages.
 
-## 🔹 Files in this project
-- `index.html` – Main website file
-- `style.css` – Website design
-- `README.md` – Project information
+## 🚀 Live Website
+You can view my website here:  
+https://<your-username>.github.io/Myfirstproject/
 
-## 🔹 Live Website
-You can view my website using GitHub Pages.
+## 🛠️ Technologies Used
+- HTML
+- CSS (optional)
 
-## 👩‍💻 Created by
-Parmila
+## 📁 Project Files
+- index.html
+- style.css
+- README.md
+
+## 👩‍💻 Author
+**Parmila Karki**
+
+## 📌 About
+This project is made for learning purpose to understand:
+- Basic HTML structure
+- GitHub repository
+- GitHub Pages hosting
