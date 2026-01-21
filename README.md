@@ -2,7 +2,9 @@
 <html>
 <head>
 <title>My First Website</title>
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
 <h1>Welcome Parmila</h1>
@@ -10,4 +12,3 @@
 
 </body>
 </html>
-<link rel="stylesheet" href="style.css">
