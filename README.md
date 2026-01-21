@@ -4,7 +4,7 @@ This is my first website created using HTML and hosted on GitHub Pages.
 
 ## 🚀 Live Website
 You can view my website here:  
-https://<your-username>.github.io/Myfirstproject/
+https://parmilakarki.github.io/Myfirstproject/
 
 ## 🛠️ Technologies Used
 - HTML
