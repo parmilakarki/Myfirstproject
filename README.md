@@ -1,10 +1,28 @@
-# to-do
+# Todo App
 
-このTo-Doアプリは、日々のタスクを効率的に管理し、計画力および自己管理能力を向上させることを目的として開発されました。
+This is a simple Todo application created using HTML, CSS, and JavaScript.
+This project is uploaded to GitHub as part of my practice and assignment.
 
-本リポジトリでは、自分で作成したTo-DoアプリのソースコードおよびREADMEファイルを管理しています。
+## 🚀 Live Website
+You can view my project here:  
+https://parmilakarki.github.io/todo/
 
-## Features
-- タスクの追加
-- タスクの完了管理
-- タスクの削除
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📁 Project Files
+- index.html
+- style.css
+- script.js
+- README.md
+
+## 👩‍💻 Author
+**Parmila Karki**
+
+## 📌 About
+This project is created for learning purposes to understand:
+- GitHub repository creation
+- Uploading files to GitHub
+- Basic Todo app functionality
